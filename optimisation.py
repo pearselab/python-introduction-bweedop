@@ -10,5 +10,3 @@ import math
 while f(x) > t:
     math.tan(fn(x))
     x = (y/m)-b
-
-    
